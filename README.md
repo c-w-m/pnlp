@@ -1,4 +1,4 @@
-# Practical Natural Language Processing
+# [Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp.git)
 ## A Comprehensive Guide to Building Real-World NLP Systems
 [Sowmya Vajjala](https://www.linkedin.com/in/sowmya-vajjala-2a38734/), [Bodhisattwa P. Majumder](http://www.majumderb.com/), [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/), [Harshit Surana](http://harshitsurana.com/)
 
